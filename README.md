@@ -1,24 +1,6 @@
-# README
+# Debugの試す為に作ったアプリになります
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+わざとバグが発生させるようにしました。  
+学習の為の内容になってます。
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* バグ修正の知識や経験は大切です
